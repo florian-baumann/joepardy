@@ -11,5 +11,6 @@ npm run serve
 
 production build:
 ```
+cd client
 npm run build
 ```
