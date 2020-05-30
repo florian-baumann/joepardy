@@ -1,4 +1,8 @@
-<template> </template>
+<template>
+  <div name="wrapper">
+    login
+  </div>
+</template>
 
 <script>
 export default {}

@@ -1,5 +1,7 @@
 <template>
-  <div name="wrapper"></div>
+  <div name="wrapper">
+    landing
+  </div>
 </template>
 
 <script>

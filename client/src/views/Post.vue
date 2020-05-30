@@ -1,4 +1,8 @@
-<template> </template>
+<template>
+  <div name="wrapper">
+    Postseite über post id
+  </div>
+</template>
 
 <script>
 export default {}

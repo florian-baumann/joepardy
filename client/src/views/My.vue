@@ -1,4 +1,9 @@
-<template> </template>
+<template>
+<div name="wrapper">
+    einstellungen 
+    et
+  </div>
+</template>
 
 <script>
 export default {}
