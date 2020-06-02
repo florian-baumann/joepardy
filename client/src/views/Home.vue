@@ -1,7 +1,6 @@
 <template>
-  <div class="home">
+  <div class="wrapper">
     <HomeNav />
-    abc
   </div>
 </template>
 
